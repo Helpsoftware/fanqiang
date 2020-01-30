@@ -34,7 +34,7 @@ https://qiaomenzhuanfx.netlify.com/
 
 推荐网站4：
 
-推荐网站5：
+推荐网站5：https://www.freess.best/
 
 推荐网站6：
 
@@ -58,9 +58,9 @@ https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 
 推荐网站1：https://free-ss.site/
 
-推荐网站2：
+推荐网站2：https://www.freess.best/v2ray.html
 
-推荐网站3：
+推荐网站3：https://www.freevpnnet.com/
 
 推荐网站4：
 
