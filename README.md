@@ -32,7 +32,7 @@ https://qiaomenzhuanfx.netlify.com/
 
 推荐网站3：https://lncn.org/
 
-推荐网站4：
+推荐网站4：https://jichangdaquan.com/node/429.html
 
 推荐网站5：https://www.freess.best/
 
@@ -62,7 +62,7 @@ https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 
 推荐网站3：https://www.freevpnnet.com/
 
-推荐网站4：
+推荐网站4：https://jichangdaquan.com/node/429.html
 
 推荐网站5：
 
