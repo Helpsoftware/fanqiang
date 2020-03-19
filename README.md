@@ -47,6 +47,11 @@ http://ss.pythonic.life/full/subscribe
 
 推荐网站6：https://fanqiang.network/
 
+推荐网站7：https://jichangdaquan.com/node/429.html
+
+
+
+
 二、V2ray
 
 (一)v2ray免费节点订阅地址（碧海收集）
@@ -87,6 +92,8 @@ https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 
 推荐网站11：https://freev2.org
 
+推荐网站12：https://jichangdaquan.com/node/429.html
+
 
 三、proxy代理科学上网
 
@@ -99,10 +106,19 @@ http://spys.one/
 
 http://www.live-socks.net/
 
+
+
+
+
+以上内容来源：
 内容来源1：https://bhqt.ltd/?p=79
+
 内容来源2：https://github.com/hoochanlon/w3-goto-world/tree/master/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E3%80%81%E6%9A%97%E7%BD%91%E3%80%81%E9%9B%B6%E7%BD%91/%E5%85%8D%E8%B4%B9ss%E3%80%81ssr%E3%80%81vmess%E5%88%86%E4%BA%AB
+
 内容来源3：https://bhqt.ltd/?p=240
+
 内容来源4：https://www.appmews.com/ssr/
+
 内容来源5：https://fanqiang.network/shadowsocks-servers
 
 
