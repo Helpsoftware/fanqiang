@@ -23,9 +23,20 @@ https://qiaomenzhuanfx.netlify.com/
 
 https://muma16fx.netlify.com/
 
+https://raw.githubusercontent.com/voken100g/AutoSSR/master/online
+
+https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
+
+https://youlianboshi.netlify.com/
+
+http://ss.pythonic.life/full/subscribe
+
 内容来源1：https://bhqt.ltd/?p=240
 
 内容来源2：https://www.appmews.com/ssr/
+
+内容来源3：https://fanqiang.network/shadowsocks-servers
+
 
 (二)免费SSR账号
 推荐网站1：https://www.youneed.win/free-ssr
@@ -38,7 +49,7 @@ https://muma16fx.netlify.com/
 
 推荐网站5：https://www.freess.best/
 
-推荐网站6：
+推荐网站6：https://fanqiang.network/
 
 二、V2ray
 
