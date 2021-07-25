@@ -1,5 +1,5 @@
 # 科学上网
-SS & SSR & V2ray 等免费节点账号及订阅地址分享和推荐，各种实用网站和软件分享。 此页面仅作学习交流用，请用于查找资料，不要做任何违法行为。所有资源均来自互联网，非盈利目的，不保证可用，仅供大家交流学习使用，出现一切问题概不负责。
+SS & SSR & V2ray & Clash Surge 等免费节点账号及订阅地址分享和推荐，各种实用网站和软件分享。 此页面仅作学习交流用，请用于查找资料，不要做任何违法行为。所有资源均来自互联网，非盈利目的，不保证可用，仅供大家交流学习使用，出现一切问题概不负责。
 
 一、SSR
 
@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.
 
 推荐网站4：https://fanqiang.network/
 
+推荐网站5：https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 
 
@@ -85,7 +86,9 @@ http://spys.one/
 
 
 四、杂七杂八
-ss免费账号：https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
+免费节点：https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
+
+https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 ss订阅地址1：https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md
 
@@ -99,6 +102,48 @@ https://etproxypool.ga/
 https://proxy.yugogo.xyz/
 
 https://proxypool-guest997.herokuapp.com/
+
+
+五、其它搜集节点的网址（网上简单搜集，不知道节点如何）
+
+https://sspool.nl/
+
+https://hm2019721.ml/
+
+https://free.kingfu.cf/
+
+https://sspool.herokuapp.com/
+
+https://free.dswang.ga/
+
+https://sspool.herokuapp.com/
+
+https://zz.guicloud.xyz/
+
+https://my.ishadowx.biz/
+
+
+六、分享节点的telegram群组
+
+https://t.me/baipiaojiedian
+
+https://t.me/ssrshares
+
+https://t.me/freeshadowsock
+
+https://t.me/ShadowsocksRssr
+
+https://t.me/ripaojiedian
+
+https://t.me/byxiaoxi
+
+https://t.me/ssrList
+
+https://t.me/ssList
+
+https://t.me/V2List
+
+https://t.me/SSRSUB
 
 
 
