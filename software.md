@@ -4,6 +4,7 @@
 一、影音类软件：
 
   1. ZY Player 资源播放器 https://github.com/cuiocean/ZY-Player
+    
     简介：
     🍕 全平台支持. Windows, Mac, Linux
     🍥 支持 IPTV, 卫视直播
@@ -19,6 +20,7 @@
 
 2. 
 
+
 二、工具类软件:
 
 
@@ -26,10 +28,13 @@
 
 
 三、iOS App（苹果应用）
+
   (一）付费iOS App
+  
     1. Shadowrocket https://apps.apple.com/us/app/shadowrocket/id932747118
+
     2. Quantumult X https://apps.apple.com/us/app/quantumult-x/id1443988620
-		3. 
+ 
     
 
 
