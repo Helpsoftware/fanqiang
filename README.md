@@ -1,6 +1,12 @@
 # 科学上网
-SS & SSR & V2ray & Clash & Surge 等免费节点账号及订阅地址分享和推荐，各种实用网站和软件分享。 此页面仅作学习交流用，仅可用于查找资料，请勿做任何违法的事。所有资源均来自互联网，非盈利目的，不保证可用，不定时更新修改，分类也比较乱，而且内容还可能有重复的，仅供大家交流学习使用，出现一切问题概不负责。
+SS & SSR & V2ray & vmess & Clash & Surge & Quantumult X & Shadowrocket等免费节点账号及订阅地址分享和推荐，各种实用网站和软件分享。 此页面仅作学习交流用，仅可用于查找资料，请勿做任何违法的事。所有资源均来自互联网，非盈利目的，不保证可用，不定时更新修改，分类也比较乱，而且内容还可能有重复的，仅供大家交流学习使用，出现一切问题概不负责。
 
+
+分享节点订阅地址的网址（需要自己去网址里找节点或节点订阅地址）：
+
+001：（目前有clash和v2ray订阅地址）
+
+https://proxy.huwo.club/notice.php
 
 一、SSR
 
@@ -26,7 +32,7 @@ https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.
 
 
 
-(二)免费SSR账号
+(二)免费SSR账号（需要自己去网址里找）
 
 网站1：https://www.youneed.win/free-ssr
 
@@ -35,9 +41,6 @@ https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.
 网站3：https://fanqiang.network/
 
 网站4：https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
-
-
-
 
 二、V2ray
 
@@ -54,7 +57,7 @@ https://raw.fastgit.org/freefq/free/master/v2
 https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
 
 
-(二)V2ary免费节点
+(二)V2ary免费节点（需要自己去网址里找）
 
 网站1：https://free-ss.site/
 
@@ -64,11 +67,7 @@ https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ra
 
 网站4：https://view.freev2ray.org/
 
-网站5：https://my.freev2ray.org/
-
-
-
-三、其它免费节点订阅地址
+三、其它免费节点订阅地址(直接复制链接地址粘贴到订阅地址里即可)
 
 https://jiang.netlify.com/
 
@@ -94,17 +93,10 @@ https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.
 
 https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
 
-https://raw.githubusercontent.com/StormragerCN/v2ray/main/v2ray
-
 https://raw.fastgit.org/codingbox/Free-Node-Merge/main/node.txt
 
-https://ivapp.cn/wyy.txt
 
-
-
-
-
-四、proxy代理科学上网
+四、proxy代理科学上网（我没用过所以不知道能不能用）
 
 (一)proxy代理网站：
 
@@ -113,35 +105,24 @@ https://premproxy.com/list/
 http://spys.one/
 
 
-
 五、杂七杂八网址
-免费节点：https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
+免费节点：
+
+https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 https://github.com/freefq/free
 
-节点（每天0点改密码）：https://io.freess.info/
 
 六、Clash、ShadowRocket(小火箭）、Surge等节点网址：
 
-https://etproxypool.ga/
-
 https://proxy.yugogo.xyz/
 
-https://proxypool-guest997.herokuapp.com/
-
-https://sspool.nl/
-
-https://free.kingfu.cf/
+https://sspool.herokuapp.com/
 
 https://sspool.herokuapp.com/
 
-https://free.dswang.ga/
-
-https://sspool.herokuapp.com/
-
-https://my.ishadowx.biz/
 
 
 七、分享节点的telegram群组
